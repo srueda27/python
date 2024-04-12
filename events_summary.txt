@@ -1,0 +1,3 @@
+total_events: 2
+events_by_type: {'click': 1, 'view': 1}
+most_active_users: {'user_8': 1, 'user_16': 1}

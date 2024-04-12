@@ -1,0 +1,1 @@
+2024-04-06 15:11:10,832 - INFO: Path with maximum audition spots and minimum distance (within 10 km): ['Spot A', 'Spot B', 'Spot C']
